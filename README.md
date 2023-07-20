@@ -36,7 +36,7 @@ See `contributing.md` for ways to get started.
 
 ## Demo
 
-[ProtoGenix](https://protogenix.vercel.app)
+[ProtoGenix](https://proto-genix.vercel.app)
 
 
 ## Deployment
