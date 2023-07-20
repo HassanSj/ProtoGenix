@@ -4,11 +4,6 @@ import styles from "./page.module.css";
 import Image from "next/image";
 import Button from "../../components/Button/Button";
 
-export const metadata = {
-  title: "Lama Dev Contact Information",
-  description: "This is Contact Page",
-};
-
 const Contact = () => {
   const [name, setName] = useState("");
   const [email, setEmail] = useState("");
