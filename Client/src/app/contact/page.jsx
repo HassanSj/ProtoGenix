@@ -2,7 +2,7 @@
 import React, { useState } from "react";
 import styles from "./page.module.css";
 import Image from "next/image";
-import Button from "@/components/Button/Button";
+import Button from "../../components/Button/Button";
 
 export const metadata = {
   title: "Lama Dev Contact Information",
