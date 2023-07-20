@@ -14,44 +14,34 @@ const About = () => {
           className={styles.img}
         />
         <div className={styles.imgText}>
-          <h1 className={styles.imgTitle}>Digital Storytellers</h1>
+          <h1 className={styles.imgTitle}>Hassan Sajjad</h1>
           <h2 className={styles.imgDesc}>
-            Handcrafting award winning digital experiences
+            A Full Stack Engineer
           </h2>
         </div>
       </div>
       <div className={styles.textContainer}>
         <div className={styles.item}>
-          <h1 className={styles.title}>Who Are We?</h1>
+          <h1 className={styles.title}>Who Am I?</h1>
           <p className={styles.desc}>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus
-            quae dolor, optio voluptatibus magnam iure esse tempora beatae. A
-            suscipit eos. Animi quibusdam cum omnis officiis voluptatum quo ea
-            eveniet? Lorem ipsum dolor sit amet consectetur adipisicing elit.
-            Ducimus quae dolor, optio voluptatibus magnam iure esse tempora
-            beatae, a suscipit eos. Animi quibusdam cum omnis officiis
+            My name is Hassan sajjad and i am a full stack engineer with a 1 year of industry experience 
+            and currently i am working at CyberSoft Vanatage as a MERN stack developer
             <br />
-            <br />
-            voluptatum quo ea eveniet? Lorem ipsum dolor sit amet consectetur
-            adipisicing elit. Ducimus quae dolor, optio voluptatibus magnam iure
-            esse tempora beatae, a suscipit eos. Animi quibusdam cum omnis
-            officiis voluptatum quo ea eveniet?
           </p>
         </div>
         <div className={styles.item}>
-          <h1 className={styles.title}>What We Do?</h1>
+          <h1 className={styles.title}>What I Do?</h1>
           <p className={styles.desc}>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus
-            quae dolor, optio voluptatibus magnam iure esse tempora beatae, a
-            suscipit eos. Animi quibusdam cum omnis officiis voluptatum quo ea
-            eveniet? Lorem ipsum dolor sit amet consectetur adipisicing elit. -
-            Creative Illustrations
+          I played a key role in developing and launching several successful software products. 
+          I collaborated with cross-functional teams to gather requirements, design system architectures, 
+          and write clean, efficient code. I am proficient in multiple programming languages such as Java, 
+          Python, and JavaScript, and have hands-on experience with modern frameworks and tools like Spring Boot, React, and Docker.
             <br />
-            <br /> - Dynamic Websites
+            <br /> - Web Devlopment
             <br />
-            <br /> - Fast and Handy
+            <br /> - Backend Integrations
             <br />
-            <br /> - Mobile Apps
+            <br /> - UI/UX Designer
           </p>
           <Button url="/contact" text="Contact" />
         </div>
